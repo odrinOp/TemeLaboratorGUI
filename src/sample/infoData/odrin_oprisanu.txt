@@ -1,0 +1,16 @@
+Tema: 4
+Nota: 8
+Predata in saptamana: 7
+Deadline: 6
+Feedback: 
+
+-se putea mai bine
+
+Tema: 5
+Nota: 10
+Predata in saptamana: 7
+Deadline: 7
+Feedback: 
+
+-nu sunt mentiuni
+
